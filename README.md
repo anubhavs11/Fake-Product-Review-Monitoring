@@ -121,3 +121,7 @@ tfidf_matrix = tfidf_vectorizer.fit_transform(reviews)
   
 ## Future Scope
 Finding the opinion spam from huge amount of unstructured data has become an important research problem. Now business organizations, specialists and academics are putting forward their efforts and ideas to find the best system for opinion spam analysis. Although, some of the algorithms have been used in opinion spam analysis gives good results, but still no algorithm can resolve all the challenges and difficulties faced by today’s generation. More future work and knowledge is needed on further improving the performance of the opinion spam analysis.In the future we will do further investigate different kinds of features to make more accurate predictions.
+
+##Prerequisite for this Project
+Required pickle files can be found here
+https://github.com/anubhavs11/Sentimental-Analysis-using-Logistic-Regression/tree/master/preserved%20files
